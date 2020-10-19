@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "salle-app"
+    }
+  },
+  "defaultProject": "salle-app",
+  "cli": {
+    "analytics": false
+  }
 }
